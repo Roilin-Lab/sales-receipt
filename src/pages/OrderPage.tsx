@@ -6,7 +6,7 @@ import OrderSummary from "../components/OrderSummary/OrderSummary";
 import logo from "../assets/Logo.svg";
 import classes from "./OrderPage.module.css";
 
-const Order: FC = ({}) => {
+const OrderPage: FC = ({}) => {
   const [settings, setSettings] = useState<Settings | null>(null);
   const [order, setOrder] = useState<Order | null>(null);
 
@@ -58,4 +58,4 @@ const Order: FC = ({}) => {
   );
 };
 
-export default Order;
+export default OrderPage;

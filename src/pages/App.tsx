@@ -41,6 +41,12 @@ function App() {
             {
               url: "https://basket-01.wbbasket.ru/vol142/part14201/14201942/images/big/1.webp",
             },
+            {
+              url: "https://img.freepik.com/free-photo/panorama-shot-canal-lake-pukaki-twisel-surrounded-with-mountains_181624-45343.jpg?t=st=1761212970~exp=1761216570~hmac=46c40ea976c3dce1a25a099462b0bbb24c803770d739bfefaa994af40dbe725c&w=1480"
+            },
+            {
+              url: "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg"
+            }
           ],
         },
         products: {
